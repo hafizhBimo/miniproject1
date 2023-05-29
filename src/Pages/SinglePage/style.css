@@ -1,0 +1,12 @@
+.imgContainer{
+    width: 100%;
+}
+
+.imgWrapper{
+    max-width: 500px;
+}
+
+.singlePageContainer{
+    display: flex;
+    justify-content: center;
+}

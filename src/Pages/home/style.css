@@ -1,0 +1,30 @@
+
+.contentWrapper {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+  }
+  
+  
+  .navbar {
+    position: sticky;
+    top:0
+  }
+  
+  .blogPreviewContainer {
+    display: flex;
+    justify-content: space-around;
+    align-self: flex-start;
+    width: 100%;
+  }
+
+  .contentWidth {
+    width: 1200px;
+  }
+
+  .blogcards {
+    display: flex;
+    flex-direction: row;
+}
+
+  
